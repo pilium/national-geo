@@ -12,6 +12,7 @@ Thumbs.db
 
 #psd files
 *.psd
+*.jpg
 
 #gulp files
 node_modules/
