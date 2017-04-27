@@ -1,0 +1,18 @@
+{
+  "name": "nat_geo_study_project",
+  "version": "0.1.0",
+  "description": "study project",
+  "author": "alex posseda",
+  "repository": "https://github.com/doctype-top/nat_geo_redisign",
+  "license": "none (public domain)",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-connect": "^3.2.2",
+    "gulp-html-replace": "^1.5.5",
+    "gulp-htmlincluder": "^0.1.0",
+    "gulp-less": "^3.0.5",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sourcemaps": "^2.0.0-alpha"
+  }
+}
